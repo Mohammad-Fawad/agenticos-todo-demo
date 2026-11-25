@@ -1,0 +1,3 @@
+# Local development server runtime files
+server.pid
+server.log
